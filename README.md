@@ -3,11 +3,11 @@
 
 - 🔭 Je travail actuellement chez **Kiloutou**, en prestation, sur un projet d'apisation du SI avec l'utilisation d'AWS, Terraform, Node JS, Angular ...
 
-- 👨‍💻 Vous pouvez retrouver mon site ici : [fdu.ovh](fdu.ovh)
+- 👨‍💻 Vous pouvez retrouver mon site ici : [fdu.ovh](https://fdu.ovh)
 
-- 📷 Juste ici mon portofolio : [photo.fdu.ovh](photo.fdu.ovh)
+- 📷 Juste ici mon portofolio : [photo.fdu.ovh](https://photo.fdu.ovh)
 
-- 📝 J'écris régulièrement des articles sur mon blog : [blog.fdu.ovh](blog.fdu.ovh)
+- 📝 J'écris régulièrement des articles sur mon blog : [blog.fdu.ovh](https://blog.fdu.ovh)
 
 - 💬 Vous pouvez venir discuter de tout et n'importe quoi autour de l'IT et de la photographie, ce sera un plaisir d'échanger avec vous 😀
 
